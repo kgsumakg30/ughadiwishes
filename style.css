@@ -14,7 +14,7 @@ align-items: center;
 justify-content: center;
 }
 .btn{
-    padding: 10px 60px;
+    padding: 10px 60px; 
     background-color: #c0da2c;
     border: 0;
     outline: none;
